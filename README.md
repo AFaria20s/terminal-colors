@@ -12,7 +12,7 @@ A quick reference for ANSI colors and text formatting in the terminal.
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/terminal-colors.git
+git clone https://github.com/AFaria20s/terminal-colors.git
 cd terminal-colors
 bash setup.sh
 source ~/.zshrc  # or ~/.bashrc
